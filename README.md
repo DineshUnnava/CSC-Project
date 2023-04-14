@@ -1,3 +1,4 @@
-# CSC-Project
-Project explanation.
-#Youtube link : https://youtu.be/RrTiMJgc4dg
+# CSC-Project : Creating and deploying a web application using a aws serverless services.
+KLU Connect is a cutting-edge social media platform built using the latest web development technologies. It provides a seamless user experience for KLU (K L University) students, enabling them to connect and engage with each other through a range of features. The platform offers a secure and scalable login and sign-up process, powered by AWS Cognito, ensuring user data is protected. Additionally, the use of AWS SNS ensures that email and mobile number verifications are fast, reliable, and easy. All user data is stored securely in AWS DynamoDB, providing high scalability and flexibility. The platform is deployed on AWS Amplify, making it highly available and easy to access. KLU Connect empowers students to network, collaborate, and build valuable connections that will serve them well in their future careers.
+
+## Project explanation link : https://youtu.be/RrTiMJgc4dg
