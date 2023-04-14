@@ -1,6 +1,7 @@
 # CSC-Project : Creating and deploying a web application using a aws serverless services.
 
 Team Members : U.Dinesh (2000031025), P.Snehitha (2000030797)
+
 Mentor : Dr. S. Kavitha
 
 KLU Connect is a cutting-edge social media platform built using the latest web development technologies. It provides a seamless user experience for KLU (K L University) students, enabling them to connect and engage with each other through a range of features. The platform offers a secure and scalable login and sign-up process, powered by AWS Cognito, ensuring user data is protected. Additionally, the use of AWS SNS ensures that email and mobile number verifications are fast, reliable, and easy. All user data is stored securely in AWS DynamoDB, providing high scalability and flexibility. The platform is deployed on AWS Amplify, making it highly available and easy to access. KLU Connect empowers students to network, collaborate, and build valuable connections that will serve them well in their future careers.
@@ -30,5 +31,11 @@ KLU Connect is a cutting-edge social media platform built using the latest web d
 ## Login Page: only after verfication we can login into web app
 ![Screenshot (11)](https://user-images.githubusercontent.com/88071250/231952941-bd3aa216-9c08-448c-8313-65c5cf2d2643.png)
 
+## Multifactor Authentication by using Aws SNS :
+![image](https://user-images.githubusercontent.com/88071250/231953589-68170212-1b4f-4860-8da5-34d0364923ad.png)
+
 ## Home Page :
 ![Screenshot (14)](https://user-images.githubusercontent.com/88071250/231952999-a0b4cbac-ded6-41be-9914-a13010cdccd7.png)
+
+
+## Thank You 
