@@ -1,0 +1,50 @@
+Title : Creating and deploying a web application using a aws serverless services. 
+
+Aim : We want tocreated a web application called KLU Connect which is an social media kind of platform for an organization called KLU.
+We used react frame work for the user interface and for functionalities we aws serverless sevices and we deployed application using aws platform.
+
+Used platform : React, Aws
+
+used Aws Services : 
+1.AWS cognito
+2.Aws SNS
+3.AWS SMS
+4.AWS DynamoDB
+5.Aws amplify
+
+Project description : KLU Connect is a cutting-edge social media platform built using the latest web development technologies.
+It provides a seamless user experience for KLU (K L University) students, enabling them to connect and engage with each other through a range of features.
+The platform offers a secure and scalable login and sign-up process, powered by AWS Cognito, ensuring user data is protected. Additionally, the use of
+AWS SNS ensures that email and mobile number verifications are fast, reliable, and easy. All user data is stored securely in AWS DynamoDB, providing high
+scalability and flexibility. The platform is deployed on AWS Amplify, making it highly available and easy to access. KLU Connect empowers students to network,
+collaborate, and build valuable connections that will serve them well in their future careers.
+
+Procedure :
+1. KLU Connect is a social media platform built using React and various AWS services, including AWS Amplify, 
+AWS Cognito, AWS SNS, and AWS DynamoDB.
+2. The platform enables KLU students to connect and engage with each other, build valuable connections, and 
+collaborate on projects and ideas.
+3. KLU Connect provides a seamless login and sign-up process using AWS Cognito, ensuring user data is protected.
+4. Email and mobile number verifications are done using AWS SNS, ensuring they are fast, reliable, and easy.
+5. All user data is stored securely in AWS DynamoDB, providing high scalability and flexibility.
+6. KLU Connect is deployed on AWS Amplify, making it highly available and easy to access.
+7. The core features of the social media platform include user profiles, friend requests, news feeds, 
+messaging, and content sharing.
+8. KLU Connect is tested for usability, functionality, and performance, ensuring that it meets user needs and
+remains secure and reliable.
+9. The web application is monitored and maintained to ensure it continues to meet user needs and remains secure and reliable.
+10. KLU Connect empowers students to network, collaborate, and build valuable connections that will serve
+them well in their future careers.
+
+Outputs : for put please check Output folder.
+
+summary : KLU Connect is a social media platform built for K L University (KLU) students using React and various AWS services.
+The platform provides a seamless user experience for students to connect and engage with each other, collaborate on projects and ideas,
+and build valuable connections. AWS Cognito is used for authentication and user management, and AWS SNS is used for email and mobile number verifications.
+AWS DynamoDB is used for storing user data securely, and the platform is deployed on AWS Amplify, making it highly available and easy to access.
+KLU Connect's core features include user profiles, friend requests, news feeds, messaging, and content sharing. Overall, KLU Connect empowers students to network,
+collaborate, and build valuable connections that will serve them well in their future careers.
+
+
+
+
