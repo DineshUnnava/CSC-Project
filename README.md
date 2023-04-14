@@ -8,6 +8,10 @@ KLU Connect is a cutting-edge social media platform built using the latest web d
 
 ## Project explanation link : https://youtu.be/RrTiMJgc4dg
 
+## Project Architecture :
+![image](https://user-images.githubusercontent.com/88071250/231953967-4eab14f8-3bf3-4d6c-a508-1d86d771c717.png)
+
+
 ## KLU connect page :
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/88071250/231951715-410b78a8-761d-41da-be42-c17f2c2c9c55.png)
