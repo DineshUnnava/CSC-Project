@@ -19,7 +19,7 @@ KLU Connect is a cutting-edge social media platform built using the latest web d
 ## sign-up page created by aws cognito :
 ![Screenshot (7)](https://user-images.githubusercontent.com/88071250/231951885-7fd115b3-597c-46a9-9b8a-2b9db0ab74f2.png)
 
-## User details befor verfication :
+## User details before verfication :
 ![Screenshot (8)](https://user-images.githubusercontent.com/88071250/231952128-b6f3d3c9-31f0-4e59-ab4d-b61a910aaf14.png)
 
 
